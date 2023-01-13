@@ -1,2 +1,1 @@
 # SUSTech_Course_Introduction
-SUSTech计算机系课程生存手册
