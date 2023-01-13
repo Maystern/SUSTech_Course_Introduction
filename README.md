@@ -1,5 +1,4 @@
 # SUSTech_Course_Introduction
-<<<<<<< HEAD
 
 ## 欢迎
 
